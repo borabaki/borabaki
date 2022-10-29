@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [trpeeper95.pythonanywhere.com](trpeeper95.pythonanywhere.com)
+- 👨‍💻 All of my projects are available at [trpeeper99.pythonanywhere.com](trpeeper95.pythonanywhere.com)
 
 - 💬 Ask me about **Javascript , Python , HTML , CSS**
 
-- 📄 Know about my experiences [trpeeper95.pythonanywhere.com/hakkimda](trpeeper95.pythonanywhere.com/hakkimda)
+- 📄 Know about my experiences [trpeeper99.pythonanywhere.com/hakkimda](trpeeper95.pythonanywhere.com/hakkimda)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
