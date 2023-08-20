@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bora Baki</h1>
 <h3 align="center">I'm Software Engineering Student and web Developer</h3>
 
-- 🔭 I’m currently working on [My own personal web page](borabaki.dev)
+- 🔭 I’m currently working on [My own personal web page](https://www.borabaki.dev)
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [borabaki.dev](borabaki.dev)
-
-- 📫 How to reach me **borabaki@outlook.com or borabaki.dev/contact**
-
-- 📄 Know about my experiences [borabaki.dev/download/bora_baki_cv.pdf](borabaki.dev/download/bora_baki_cv.pdf)
+- 👨‍💻 All of my projects are available at [https://www.borabaki.dev](https://www.borabaki.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
