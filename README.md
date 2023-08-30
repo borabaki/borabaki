@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bora Baki</h1>
 <h3 align="center">I'm Software Engineering Student and web Developer</h3>
 
-- 🔭 I’m currently working on [My own personal web page](https://www.borabaki.dev)
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://www.borabaki.dev](https://www.borabaki.dev)
