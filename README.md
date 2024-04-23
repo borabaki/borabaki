@@ -6,7 +6,4 @@
 - 👨‍💻 All of my projects are available at [borabaki.dev](https://www.borabaki.dev)
 
 - 📫 How to reach me **borabaki@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
