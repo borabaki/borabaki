@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [borabaki.dev](borabaki.dev)
+- 👨‍💻 All of my projects are available at [borabaki.dev](https://www.borabaki.dev)
 
 - 📫 How to reach me **borabaki@outlook.com**
 
