@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [borabaki.net](www.borabaki.net)
+- 👨‍💻 All of my projects are available at [borabaki.net](https://www.borabaki.net)
 
 
 <p align="left">
