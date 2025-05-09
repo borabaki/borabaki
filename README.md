@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at here
+- 👨‍💻 All of my projects are available at my profile
 
 
 <p align="left">
